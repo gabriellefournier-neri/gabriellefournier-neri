@@ -2,7 +2,7 @@
 [![Linkedin: developpeuse-web-toulouse](https://img.shields.io/badge/-Gabrielle%20FournierNéri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellefourniernericv/)](https://www.linkedin.com/in/gabriellefourniernericv/)
 
 <h1 align='center'> < Hello Word /> 	 </h1>
-<h2 align='center'> I'm Gab'. :seedling:
+<p align='center'> I'm Gab'. :seedling:
 <p align='center'> Web Developer junior based in Toulouse - France
 <h3 align='center'>  Front-End | Back-End 
 
