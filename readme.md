@@ -3,7 +3,7 @@
 
 <h1 align='center'> < Hello Word /> 	 </h1>
 <p align='center'> I'm Gab'. :seedling:
-<p align='center'> Web Developer junior
+<p align='center'> Web Developer junior based in Toulouse - France
 <p align='center'>  Front-End | Back-End 
 
 
@@ -18,6 +18,7 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759b?style=flat-square&logo=WordPress)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jquery-230769?style=flat-square&logo=jquery)
+...
 
 
 <hr>
