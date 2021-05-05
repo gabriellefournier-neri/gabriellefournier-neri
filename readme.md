@@ -26,3 +26,14 @@
 ### 📕 Studies : <br>
 2021 - Web Development <br>
 2020 - Design Web | UX-UI Design 
+
+
+<hr>
+
+### 	:beer: love : <br>
+| Beers
+| Climbing 
+| Trails
+| Vinyls
+| My doggy
+| Street-Art
