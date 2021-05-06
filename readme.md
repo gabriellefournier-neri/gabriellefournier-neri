@@ -36,7 +36,7 @@
 📕 Studies : 
 2021 -> Web Development 
 2020 -> Design Web | UX-UI Design 
-2017 - 2018 -> Global Communication | Event'Manager
+2017 - 2019 -> Global Communication | Event'Manager
 ```
 
 <hr>
