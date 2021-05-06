@@ -30,7 +30,7 @@
 
 <hr>
 
-### 	:beer: love : <br>
+### 	:beer: Love : <br>
 Beers
 | Climbing 
 | Trails
