@@ -30,26 +30,22 @@
 
 <hr>
 
-
+### 📕 Studies : 
 
 ```Dockerfile
-📕 Studies : 
+
 2021 -> Web Development 
 2020 -> Design Web | UX-UI Design 
 2017 - 2019 -> Global Communication | Event'Manager
 ```
 
 <hr>
-<h3 align="right">
-	 Love :beer: </h3>
-<p align="right">
-Beers
-| Climbing 
-| Trails
-| Vinyls
-| My doggy
-| Street-Art
-  </p>
+<h3 align="left">  :beer: Love: </h3>
+
+```Dockerfile
+$Beers == ($Climbing <= [$Trails == $MyDoggy]) == $Vinyls <= $Street-Art
+```
+
 
 
 
