@@ -1,6 +1,8 @@
 
 [![Linkedin: developpeuse-web-toulouse](https://img.shields.io/badge/-Gabrielle%20FournierNéri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriellefourniernericv/)](https://www.linkedin.com/in/gabriellefourniernericv/)
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
 <h1 align='center'> < Hello Word /> 	 </h1>
 <p align='center'> I'm Gab'. :seedling:
 <p align='center'> Web Developer junior based in Toulouse - France
@@ -9,7 +11,7 @@
 
 
 
-### ⚡ Dev. : 
+## ⚡ Dev. : 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -20,7 +22,7 @@
 ![jQuery](https://img.shields.io/badge/-jquery-230769?style=flat-square&logo=jquery)
 ...
 
-### ⚡ Design : 
+## ⚡ Design : 
 
 <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
@@ -28,14 +30,14 @@
 
 <hr>
 
-### 📕 Studies : <br>
+## 📕 Studies : <br>
 2021 - Web Development <br>
 2020 - Design Web | UX-UI Design 
 
 
 <hr>
 
-### 	:beer: Love : <br>
+## 	:beer: Love : <br>
 Beers
 | Climbing 
 | Trails
