@@ -30,7 +30,7 @@
 
 <hr>
 
-### 📕 Studies : 
+### 📕 Studies & Jobs : 
 
 ```Dockerfile
 
