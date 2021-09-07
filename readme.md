@@ -5,7 +5,7 @@
 
 <h1 align='center'> < Hello Word /> 	 </h1>
 <p align='center'> I'm Gab'. :seedling:
-<p align='center'> Web Developer junior based in Toulouse looking for apprenticeship - France
+<p align='center'> Web Developer junior based in Toulouse - France
 <h3 align='center'>  Front-End | Back-End 
 
 
