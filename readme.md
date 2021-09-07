@@ -35,7 +35,7 @@
 ```Dockerfile
 
 2021 -> Web Development | Angular | Symfony | cd C:\Html\Css\JavaScript\JQuery\php\MySql
-2020 -> Design Web | UX-UI Design 
+2020 -> Design Web | UX-UI Design cd C:\WordPress\Drupal
 2017 - 2019 -> Global Communication | Event'Manager
 ```
 
