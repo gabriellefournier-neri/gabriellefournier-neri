@@ -3,7 +3,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<h1 align='center'> < Hello Word /> 	 </h1>
+<h1 align='center'> {{ Hello Word }} 	 </h1>
 <p align='center'> I'm Gab'. :seedling:
 <p align='center'> Web Developer junior based in Toulouse - France
 <h3 align='center'>  Front-End | Back-End 
